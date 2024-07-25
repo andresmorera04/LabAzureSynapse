@@ -1,0 +1,2 @@
+# LabAzureSynapse
+Archivo Leame inicial.
